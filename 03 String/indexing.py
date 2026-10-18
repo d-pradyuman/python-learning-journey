@@ -1,0 +1,5 @@
+a=input("Enter your name:")
+b=len(a)
+print(b)
+print("First letter:",a[0])
+print("Last letter:",a[b-1])
